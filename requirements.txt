@@ -1,0 +1,16 @@
+albumentations
+fastai
+gdown
+glob2
+h5py
+numpy
+matplotlib
+opencv-python==4.4.0.46
+pandas
+pytorch=1.7.1
+scikit-image
+scikit-learn
+scipy
+timm
+torchvision=0.8.2
+tqdm
